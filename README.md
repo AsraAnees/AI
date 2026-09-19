@@ -25,23 +25,3 @@ Uses a **Genetic Algorithm** to search for a path through a maze. Candidate solu
 ## A3 – Regression and Neural Networks
 
 Assignment 3 explores different approaches for modelling generated nonlinear data. It implements and compares **linear regression**, **second-degree polynomial regression**, and a **three-layer neural network**. The models are evaluated using **mean squared error (MSE)**, and prediction curves are visualized to compare how well the different approaches fit the data.
-
-## Repository Structure
-
-```text
-AI/
-├── A1/
-│   ├── Tasks.pdf
-│   └── Report.pdf
-├── A2/
-│   ├── Tasks.pdf
-│   ├── Report.pdf
-│   ├── Task-1/
-│   ├── Task-2/
-│   └── Task-3/
-├── A3/
-│   ├── Tasks.pdf
-│   ├── Report.pdf
-│   └── Assignmet_3.ipynb
-└── README.md
-```
